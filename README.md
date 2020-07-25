@@ -29,6 +29,6 @@ Starting model server at http://0.0.0.0:8000...
 
 # License
 
-This port is licensed as MIT.
-
-For White-box-Cartoonization license, check out their code base.
+This port is licensed same as White-box-Cartoonization.  
+Licensed under the CC BY-NC-SA 4.0.  
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
