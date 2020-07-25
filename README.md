@@ -2,6 +2,9 @@
 
 [![RunwayML Badge](https://open-app.runwayml.com/gh-badge.svg)](https://open-app.runwayml.com/)
 
+https://github.com/SystemErrorWang/White-box-Cartoonization
+
+(This port us using forked version of the original repo for Tensorflow 2 comatability.)
 
 ## Testing the Model
 
