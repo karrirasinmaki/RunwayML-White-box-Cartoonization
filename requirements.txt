@@ -1,0 +1,11 @@
+runway-python
+Pillow==6.2.0
+
+cython
+scipy==1.4.1
+opencv-python
+tf_slim
+tqdm
+
+tensorflow-gpu==2.2.0
+scikit-image==0.14.5
