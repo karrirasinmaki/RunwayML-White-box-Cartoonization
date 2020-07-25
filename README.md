@@ -14,8 +14,6 @@ While you're developing your model it's useful to run and test it locally.
 ## Optionally create and activate a Python 3 virtual environment
 # virtualenv -p python3 venv && source venv/bin/activate
 
-# Install the Runway Model SDK (`pip install runway-python`) and the Pillow
-# image library, used in this example.
 pip install -r requirements.txt
 
 # Run the entrypoint script
